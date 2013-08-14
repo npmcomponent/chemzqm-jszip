@@ -1,3 +1,4 @@
+var JSZip = require('./jszip');
 "use strict";
 
 (function () {

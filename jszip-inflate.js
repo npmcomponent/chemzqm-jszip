@@ -1,5 +1,7 @@
 "use strict";
 
+var JSZip = require('./jszip');
+
 (function () {
    if(!JSZip) {
       throw "JSZip not defined";

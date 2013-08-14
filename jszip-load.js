@@ -11,7 +11,7 @@ Dual licenced under the MIT license or GPLv3. See LICENSE.markdown.
 "use strict";
 (function (root) {
 
-   var JSZip = root.JSZip;
+   var JSZip = require('./jszip');
 
    var MAX_VALUE_16BITS = 65535;
    var MAX_VALUE_32BITS = -1; // well, "\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF" is parsed as -1
