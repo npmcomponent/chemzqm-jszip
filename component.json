@@ -1,0 +1,20 @@
+{
+  "name": "jszip",
+  "repo": "chemzqm/jszip",
+  "description": "jszip",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "jszip.js",
+    "jszip-load.js",
+    "jszip-deflate.js",
+    "jszip-inflate.js"
+  ]
+}
